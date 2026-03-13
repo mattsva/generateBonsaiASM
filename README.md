@@ -7,6 +7,7 @@ Its version v0.0.1.
 Instead of performing arithmetic directly in Python, the functions generate a **string containing assembly-like instructions** for the Bonsai assembler environment:
 
 https://inf-schule.de/rechner/bonsai/sprachen/assemblersprache/experimente
+> **Disclaimer**: I am not affiliated with inf-schule.de and have no other relationship with this website.
 
 Each function produces instructions such as:
 
